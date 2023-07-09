@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/roy-simanovich-111002243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy-simanovich-111002243" height="30" width="40" /></a>
 <a href="https://fb.com/roy.simanovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roy.simanovich" height="30" width="40" /></a>
 <a href="https://instagram.com/roy__sim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roy__sim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucnbmrdoh6i-r6xxm88qpwkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnbmrdoh6i-r6xxm88qpwkq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucnbmrdoh6i-r6xxm88qpwkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnbmrdoh6i-r6xxm88qpwkq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
